@@ -1,4 +1,6 @@
-plik1
+plik000001
+
+super duper
 
 
 modyfikacja
